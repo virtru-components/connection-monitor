@@ -1,4 +1,4 @@
-network-connection-monitor
+connection-monitor
 ==========================
 
-network-connection-monitor
+connection-monitor
