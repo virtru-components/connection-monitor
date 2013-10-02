@@ -1,0 +1,21 @@
+{
+  "name": "connection-monitor",
+  "repo": "nzack/connection-monitor",
+  "description": "Connection Monitor",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/emitter": "*",
+    "virtru-components/underscore": "*"
+  },
+  "development": {
+    "virtru-components/mocha-promises-kit": "*",
+    "virtru-components/chai": "*"
+  },
+  "scripts": [
+    "index.js",
+    "lib/connection-monitor.js"
+  ],
+  "testScripts": [
+    "tests/connection-monitor-test.js"
+  ]
+}
