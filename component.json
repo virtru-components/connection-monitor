@@ -1,6 +1,6 @@
 {
   "name": "connection-monitor",
-  "repo": "nzack/connection-monitor",
+  "repo": "virtru-components/connection-monitor",
   "description": "Connection Monitor",
   "version": "0.0.1",
   "dependencies": {
